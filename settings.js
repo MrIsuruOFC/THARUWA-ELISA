@@ -135,7 +135,7 @@ global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || `https://i.ibb.co/M7WpwFJ/c2
 //👇 DISABLE PM Block numbers
 global.NO_BLOCK = ["94765832338","94766632281"]
 //👇 DISABLE download words
-global.IMG_BLOCKER = ["xxx","sex","mia","porn"]
+global.IMG_BLOCKER = ["xxx","sex","mia","porn","xnxx"]
 //👇 Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
 global.CHATGPT_API = ''
 //👇 Sex  video Download Allowed Groups
