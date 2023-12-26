@@ -107,23 +107,20 @@ global.REMOVE_BG_API = 'apikey get on remoebg.com'
 //👇 Change Bot Language 
 global.LANG = 'EN'
 //Alive logo
-global.alivelogo = process.env.ALIVE_IMAGE || `https://i.ibb.co/LNkhXB8/1702715002831.jpg`
+global.alivelogo = process.env.ALIVE_IMAGE || `https://i.postimg.cc/wB6CwtWr/IMG-20231225-074801-266.jpg`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `𝙃𝙚𝙮 𝙄 𝙖𝙢 𝙌𝙪𝙚𝙚𝙣 𝙀𝙡𝙞𝙨𝙖 🧚‍♂️
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `*💗 Dark Devil Whatsapp Bot 💗*
 
-Hello there I am Online ! 💗🫶
-═════⦁❋⦁═════
+Hello there I am Online ! 
+*ᴛʏᴘᴇ |.menu| ᴛᴏ ɢᴇᴛ ᴍʏ ᴄᴍᴅ ʟɪꜱᴛ.*
 
-*ʙᴏᴛ ɴᴀᴍᴇ*➛ᴛʜᴀʀᴜᴡᴀ ᴍᴅ ᴠ3
-*ʙᴏᴛ ᴏᴡɴᴇʀ*➛ᴍʀ ᴛʜᴀʀᴜᴡᴀ ᴏꜰᴄ
-*ɴᴜᴍʙᴇʀ*➛765832338
-*ʙᴏᴛ ᴇᴅɪᴛᴇʀ*➛—͟͞͞★ᴅᴀʀᴋ ᴅᴇᴠɪʟㅤ✓
-*ᴘᴜʙʟɪᴄ ʙᴏᴛ ɢʀᴏᴜᴘ*➛https://chat.whatsapp.com/Ko2HfqBt5mjEsmV9fY7Bsq
+*🧑‍💻 ᴏᴡɴᴇʀ  :* ᴍʀ ᴛʜᴀʀᴜꜱʜᴀ ( https://github.com/isuru-new )
+*🧬 ᴠᴇʀꜱɪᴏɴ :* 3.9.6
+*🗃️ ᴘᴜʙʟɪᴄ ɢʀᴏᴜᴘ 1 :* _https://chat.whatsapp.com/Ko2HfqBt5mjEsmV9fY7Bsq_
+*🗃️ ᴘᴜʙʟɪᴄ ɢʀᴏᴜᴘ 2 :* _https://chat.whatsapp.com/K6HuFtdomVkJpyp5K4t9tF_
+*📲 ɪɴꜱᴛᴀʟʟ ʙᴏᴛ :* _https://tinyurl.com/install-elisa-bot_
 
-⦁ Type .menu For My Command List
-
-
-⦁ *𝗣𝗼𝘄𝗲𝗿𝗱 𝗕𝘆 𝗧𝗵𝗮𝗿𝘂𝘀𝗵𝗮 𝗞𝗮𝘃𝗶𝗻𝗱𝘆𝗮* ⦁`
+🫀© *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ɪꜱᴜʀᴜ ᴄᴍ*`
 //👇 Welcome Mesaage
 global.WELCOME = process.env.WELCOME || `*හායි ලස්සන ළමයෝ..😁💖*`
 //👇 welcome image 
