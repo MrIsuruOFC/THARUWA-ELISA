@@ -109,7 +109,7 @@ global.LANG = 'EN'
 //Alive logo
 global.alivelogo = process.env.ALIVE_IMAGE || `https://i.postimg.cc/wB6CwtWr/IMG-20231225-074801-266.jpg`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `*💗 Dark Devil Whatsapp Bot 💗*
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `*Dark Devil Whatsapp Bot 💗*
 
 Hello there I am Online ! 
 *ᴛʏᴘᴇ |.menu| ᴛᴏ ɢᴇᴛ ᴍʏ ᴄᴍᴅ ʟɪꜱᴛ.*
@@ -124,7 +124,7 @@ Hello there I am Online !
 //👇 Welcome Mesaage
 global.WELCOME = process.env.WELCOME || `*හායි ලස්සන ළමයෝ..😁💖*`
 //👇 welcome image 
-global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || `https://i.ibb.co/wKw3zfh/1a3a68369698cd91b4754f2051fd28a4.jpg`
+global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || `https://i.postimg.cc/zGrfgZsD/Logo-Maker-Ca-1702483956168.png`
 //👇 Goodbye message 
 global.GOODBYE = process.env.GOODBYE || `𝘽𝙮𝙚 𝙈𝙧.𝙃𝙏𝙏𝙋 💀`
 //👇 Good bye image
