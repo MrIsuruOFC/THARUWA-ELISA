@@ -70,7 +70,7 @@ global.AUTO_OPEN_AI = false
 //👇 Bot On Privet
 global.PRIVET_BOT = false
 //👇 DISABLE Bot Commands But Others Are Working 
-global.DISABLE_COMMANDS = false
+global.DISABLE_COMMANDS = true
 //👇 DISABLE Bot Commands On Message Send On Off
 global.DISABLE_COMMAND_MESSAGE_SEND = false 
 global.AUTO_SEEN_STATUS = true
@@ -87,7 +87,7 @@ global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚃𝙷𝙰𝚁�
 //👇 Your Bot Name
 global.botnma =  '```ᴛʜᴀʀᴜᴡᴀ ᴍᴅ ᴠ3 𝛁```' 
 //👇 Your name
-global.ownernma =  '```ᴍʀ ᴛʜᴀʀᴜᴡᴀ ᴏꜰᴄ```' 
+global.ownernma =  '『 ᴍʀ ɪꜱᴜʀᴜ x 』' 
 //👇 Sticker Author Name
 global.packname =  '𝙼𝚁 𝚃𝙷𝙰𝚁𝚄 𝙾𝙵𝙲' 
 //👇 Inbox Block Massage 
@@ -115,7 +115,7 @@ Hello there I am Online !
 *ᴛʏᴘᴇ |.menu| ᴛᴏ ɢᴇᴛ ᴍʏ ᴄᴍᴅ ʟɪꜱᴛ.*
 
 *🧑‍💻 ᴏᴡɴᴇʀ  :* ᴍʀ ᴛʜᴀʀᴜꜱʜᴀ ( https://github.com/isuru-new )
-*🧬 ᴠᴇʀꜱɪᴏɴ :* 3.9.6
+*🧬 ᴠᴇʀꜱɪᴏɴ :* 3.9.7
 *🗃️ ᴘᴜʙʟɪᴄ ɢʀᴏᴜᴘ 1 :* _https://chat.whatsapp.com/Ko2HfqBt5mjEsmV9fY7Bsq_
 *🗃️ ᴘᴜʙʟɪᴄ ɢʀᴏᴜᴘ 2 :* _https://chat.whatsapp.com/K6HuFtdomVkJpyp5K4t9tF_
 *📲 ɪɴꜱᴛᴀʟʟ ʙᴏᴛ :* _https://tinyurl.com/install-elisa-bot_
@@ -163,7 +163,7 @@ global.mess = {
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     BLOCK_CMD_MSG : '*⚠️ This Command is Block By Owner*',
     IMG_BLOCK : "This Word is Ban from image downloader",
-    DISABLE_INBOX : "Inbox DISABLE By Bot Owner Please Only Use Groups",
+    DISABLE_INBOX : "Inbox disable !",
     ONLY_SEX_GROUP : "Adult Video Download Only Allowed On This Group \n\n https://chat.whatsapp.com/JYAg2lMpRTF2bgkeFCxsvf",
     DISABLE_CMD : "🚫 Commands Are DISABLE by owner",
     BAD_DETECT : '',
